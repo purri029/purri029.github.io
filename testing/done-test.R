@@ -1,1 +1,1 @@
-paste("done!")
+message("done!")
